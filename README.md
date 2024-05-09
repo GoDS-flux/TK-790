@@ -14,20 +14,20 @@
 
 
 
-- ### Many of these radios will seem to not power on, usually they are setup for Ignition Sense for a mobile installation, If you adjust the Jumpers inside the top case as shown below, it will remove the requirement for Ignition Sense
+ ### Many of these radios will seem to not power on, usually they are setup for Ignition Sense for a mobile installation, If you adjust the Jumpers inside the top case as shown below, it will remove the requirement for Ignition Sense
 
 ![TK-790, Ignition Sense](./Photos/TK-790_Ignition_Sense_Jumpers_highlight.jpeg)
 
-- ### By Default the below jumpers should be set to allow Pin 13 on the 25-Pin Accessory terminal to accept ~10Khz of flat audio ~9.6kHz +1/–3dB (1kHz=0dB) (1kHz 2.5Vp-p input)
+ ### By Default the below jumpers should be set to allow Pin 13 on the 25-Pin Accessory terminal to accept ~10Khz of flat audio ~9.6kHz +1/–3dB (1kHz=0dB) (1kHz 2.5Vp-p input)
 
 ![TK-790, Data vs MIC Signal Input](./Photos/TK-790_Pin_13_Mode_Jumper_Highlight.jpeg)
 
 
-- ### On the rear of the Radio you will find a DB-25 accessory connector, a 9-Pin accessory connector, the OEM Power Connector and an SO-239 RF out. For Packet or TARPN use the DB-25 connector is of interest.
+ ### On the rear of the Radio you will find a DB-25 accessory connector, a 9-Pin accessory connector, the OEM Power Connector and an SO-239 RF out. For Packet or TARPN use the DB-25 connector is of interest.
 
 ![TK-790, Rear](./Photos/TK-790_Rear.jpeg)
 
-- ### Here's is Pinout of the DB-25 for Packet use. Pin 2 is a software defined pin that we will use as PTT
+ ### Here's is Pinout of the DB-25 for Packet use. Pin 2 is a software defined pin that we will use as PTT
 
 <div style="width:80%; margin: auto;">
 
